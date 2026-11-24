@@ -1,0 +1,80 @@
+{
+  "siteName": "Retired Young",
+  "hero": {
+    "title": "Te regalamos una prueba gratuita de 14 días",
+    "subtitle": "Aprende, analiza y desarrolla habilidades en el mundo del trading junto a nuestro equipo."
+  },
+  "theme": {
+    "gold": "#d9a441",
+    "black": "#080808"
+  },
+  "sections": {
+    "hero": true,
+    "benefits": true,
+    "story": true,
+    "tutorial": true,
+    "steps": true,
+    "testimonials": false,
+    "contact": true
+  },
+  "gallery": [],
+  "testimonials": [],
+  "social": {
+    "instagramOne": "",
+    "instagramTwo": ""
+  },
+  "integration": {
+    "whatsapp": "",
+    "message": "Hola, me gustaría conocer Retired Young y agendar un discovery.",
+    "form": "",
+    "sheets": ""
+  },
+  "copy": {
+    "text-0": "APRENDE · ANALIZA · AVANZA",
+    "text-2": "Consulta las condiciones de acceso y continuidad de la prueba.",
+    "text-3": "para conocer la plataforma",
+    "text-4": "QUÉ ENCONTRARÁS",
+    "text-5": "Herramientas para aprender con criterio",
+    "text-6": "↗",
+    "text-7": "Señales de inversión",
+    "text-8": "Aprende a interpretar información antes de tomar decisiones.",
+    "text-9": "⌕",
+    "text-10": "Scanner",
+    "text-11": "Explora herramientas para observar el comportamiento del mercado.",
+    "text-12": "◎",
+    "text-13": "Mentalidad",
+    "text-14": "Desarrolla disciplina, paciencia y gestión emocional.",
+    "text-15": "✦",
+    "text-16": "Acompañamiento",
+    "text-17": "Aprende con orientación y una comunidad.",
+    "text-18": "El trading implica riesgos. El contenido es educativo y no constituye asesoría financiera ni garantiza resultados.",
+    "text-19": "QUIÉNES SOMOS",
+    "text-20": "Un proyecto construido con iniciativa y aprendizaje constante.",
+    "text-21": "Retired Young es un equipo que comparte herramientas, acompañamiento y educación sobre trading para personas interesadas en aprender y desarrollar sus habilidades.",
+    "text-22": "Aquí conocerás nuestras historias, experiencias y aprendizajes.",
+    "text-23": "PASO A PASO",
+    "text-24": "Aprende a utilizar las señales",
+    "text-25": "Espacio reservado para el video tutorial",
+    "text-26": "EMPIEZA AQUÍ",
+    "text-27": "Tres pasos para conocer Retired Young",
+    "text-28": "01",
+    "text-29": "Solicita tu prueba",
+    "text-30": "Completa tus datos para recibir información.",
+    "text-31": "02",
+    "text-32": "Únete al canal",
+    "text-33": "Recibe indicaciones para acceder al canal del equipo.",
+    "text-34": "03",
+    "text-35": "Prepara tu cuenta",
+    "text-36": "Conoce los requisitos y cómo utilizar las herramientas.",
+    "text-37": "TU EXPERIENCIA EMPIEZA AQUÍ",
+    "text-38": "Conoce Retired Young durante 14 días.",
+    "text-39": "Completa la inscripción para solicitar acceso a la prueba gratuita.",
+    "text-40": "Comienza tus 14 días gratis",
+    "text-42": "Historias reales"
+  },
+  "media": {
+    "hero": "",
+    "story": "",
+    "tutorial": ""
+  }
+}
