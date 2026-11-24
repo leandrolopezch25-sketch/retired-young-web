@@ -1,0 +1,1 @@
+import {reply,originOK,cookie} from './utils.mjs';export async function handler(e){if(e.httpMethod!=='POST')return reply(405,{error:'Método no permitido'});if(!originOK(e))return reply(403,{error:'Origen no permitido'});return reply(200,{ok:true},{'Set-Cookie':cookie('',0)})}

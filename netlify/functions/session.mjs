@@ -1,0 +1,1 @@
+import {reply,session} from './utils.mjs';export async function handler(e){if(e.httpMethod!=='GET')return reply(405,{error:'Método no permitido'});return reply(200,{authenticated:session(e)})}

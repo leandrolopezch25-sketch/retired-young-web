@@ -1,0 +1,4 @@
+# Configurar inscripción
+Desde la cuenta de tu socia, crea un formulario en forms.google.com titulado Prueba gratuita de 14 días | Retired Young.
+Preguntas: nombre y apellido, correo electrónico, WhatsApp con código de país, país, experiencia (ninguna, principiante, intermedia, avanzada), consentimiento informado para gestionar la solicitud y contactar. Añade información sobre responsable, finalidad, conservación y contacto para derechos de privacidad. No exijas iniciar sesión salvo necesidad.
+En Respuestas, vincula una hoja de cálculo nueva. Publica el formulario para quienes tengan el enlace. Copia el enlace público en el panel administrativo, y el enlace privado de Sheets en el campo correspondiente. Mantén la hoja restringida. Configura WhatsApp y prueba con un registro ficticio. No hay conexión activa hasta completar estos pasos.
